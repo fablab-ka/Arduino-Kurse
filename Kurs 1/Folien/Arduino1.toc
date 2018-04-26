@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {ngerman}
+\beamer@sectionintoc {1}{\IeC {\"U}bersicht}{2}{0}{1}
+\beamer@sectionintoc {2}{Was ist ein Arduino?}{3}{0}{2}
+\beamer@sectionintoc {3}{Elektronik-Grundlagen}{7}{0}{3}
+\beamer@sectionintoc {4}{Programmiergrundlagen}{20}{0}{4}
